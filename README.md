@@ -1,0 +1,7 @@
+- 👋 Oi, eu sou @Lore1417
+- 👀 Estou interessada em programação.
+- 🌱 Atualmente, estou aprendendo JavaScript.
+- 💞️ No momento, não estou colaborando em projetos, pois estou focada nos meus estudos.
+- 📫 Ainda não estou disponível para contato enquanto estudo.
+- 😄 Pronomes: ela/dela.
+- ⚡ Fato curioso: Gosto de aprender novas linguagens e resolver desafios de lógica!
